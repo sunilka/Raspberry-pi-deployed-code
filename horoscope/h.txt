@@ -1,0 +1,2 @@
+{"date_range": "Mar 21 - Apr 20", "current_date": "March 24, 2020", "description": "You're a bit delicate at the moment -- extra-sensitive and inclined to react from your gut rather than with any kind of, say, logic. Just be aware of your heightened emotional state -- and tell those around you to be nice.", "compatibility": "Sagittarius", "mood": "Calm", "color": "Shadow Black", "lucky_number": "25", "lucky_time": "2am"}
+Program complete
