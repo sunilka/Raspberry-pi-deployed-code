@@ -1,0 +1,2 @@
+Dominant color in the image is : 
+gray29
