@@ -1,0 +1,11 @@
+headline 1: Coronavirus updates: Lockdown begins in the UK after Johnson speech
+headline 2: Is Trump going cold on lockdown strategy?
+headline 3: US-China contagion: The battle behind the scenes
+headline 4: Wuhan to ease lockdown as world battles virus
+headline 5: Priest who gave respirator to young patient dies
+headline 6: Mammal study explains 'why females live longer'
+headline 7: Spain's coronavirus death toll jumps by 514
+headline 8: US tech giants team up to tackle coronavirus
+headline 9: Tokyo 2020: Olympic Games organisers 'agree postponement'
+headline 10: Fossil worm shows us our evolutionary beginnings
+Program complete, complete 
